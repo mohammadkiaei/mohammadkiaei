@@ -1,5 +1,5 @@
 # :man_technologist: About Me:
-Hi, I'm Mohammad, and I currently working on Front-end development.<br>I currently learning React, but I rarely work on back-end projects with Python - Django.<br>I have some WordPress Projects and you can saw them in [our team website](https://vanadiumdev.ir)
+Hi, I'm Mohammad, and I am currently working on Front-end development.<br>I am currently learning React and Redux.<br>I have some WordPress Projects and you can see them on [our team website](https://vanadiumdev.ir)
 
 
 ## :calling: Socials:
