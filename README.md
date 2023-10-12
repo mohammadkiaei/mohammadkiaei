@@ -1,5 +1,5 @@
 # :man_technologist: About Me:
-Hi, I'm Mohammad, and I am currently working on Front-end development.<br>I am currently learning React and Redux.<br>I have some WordPress Projects and you can see them on [our team website](https://vanadiumdev.ir)
+I'm a self-taught front-end developer. I have some experience in developing with React and have completed several projects using this framework, which I undertook personally to enhance my skills. You can find these projects showcased in the portfolio section. Additionally, I hold around four degrees from training courses offered by esteemed universities and institutions such as John Hopkins, Duke, and Michigan through Coursera. I am eager to generate new value by embracing new challenges and continually enhancing my skills day by day.<br>I have some WordPress Projects and you can see them on [our team website](https://vanadiumdev.ir)
 
 
 ## :calling: Socials:
